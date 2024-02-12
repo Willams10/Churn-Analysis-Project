@@ -1,7 +1,5 @@
 # Churn-Analysis-Project
 
-# Churn Analysis Project
-
 This project conducts a comprehensive churn analysis on bank customer data using Power BI Desktop. We explore various factors that might influence customer retention, including demographics (gender, age), financial products used, credit scores, account balances, and more. Through detailed visualizations, we uncover patterns that help identify the key drivers of customer churn. Our findings aim to assist in developing targeted strategies to improve customer loyalty and reduce churn rates.
 
 ## Highlights
